@@ -1,0 +1,8 @@
+<html>
+<head>
+    <title>Welcome to Tomcat with Docker!</title>
+</head>
+<body>
+    <h1>Hello, Tomcat I hope you are doing well!</h1>
+</body>
+</html>
